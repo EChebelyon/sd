@@ -12,7 +12,7 @@ token = open(".mapbox_token").read()
 px.set_mapbox_access_token(token)
 
 app = dash.Dash(__name__)
-
+server = app.server
 
 
 print("Reading Files")
