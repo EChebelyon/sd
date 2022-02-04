@@ -63,6 +63,7 @@ app.layout = html.Div(children=[
         dcc.Checklist(
             id = 'checkbox-list',
             options=[
+                {'label': 'Housing', 'value': 'Housing'},
                 {'label': 'Libraries', 'value': 'Libraries'},
                 {'label': 'Train', 'value': 'Train'},
                 {'label': 'Mosques', 'value': 'Mosques'},
@@ -70,7 +71,7 @@ app.layout = html.Div(children=[
                 {'label': 'Transit Stops', 'value': 'Transit Stops'},
                 {'label': 'Schools', 'value': 'Schools'},
             ],
-            value=[],
+            value=['Housing'],
             style={"padding": "10px", "max-width": "800px", "margin": "auto"},
         ),
         html.Button("Reset", id="reset-button", n_clicks=0, style={"margin": "auto", "display": "inline-block", "justify-content": "center"}),
@@ -86,7 +87,7 @@ def reset_checklist(n_clicks):
     if n_clicks > 0:
         
         fig.data = [fig.data[0]]
-    value = []
+    value = ['Housing']
 
     return value
 
@@ -96,7 +97,8 @@ def reset_checklist(n_clicks):
     
 )
 def update_map(value):
-    if value is None:
+
+    if value is None or value == ['Housing']:
         fig.data = [fig.data[0]]
     if 'Libraries' in value :
         fig.add_trace(px.scatter_mapbox(libraries, lat='lat', lon='lng', hover_name='name', hover_data={'lat': False, 'lng': False},  opacity=0.5,color_discrete_sequence=['purple']).data[0])
