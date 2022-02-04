@@ -1,3 +1,5 @@
+import os
+
 import dash
 import geopandas as gpd
 import numpy as np
@@ -7,7 +9,8 @@ import shapely.geometry
 from dash import dcc, html
 from dash.dependencies import Input, Output
 
-token = open(".mapbox_token").read()
+# token = open(".mapbox_token").read()
+token = os.environ.get("MAPBOX_TOKEN")
 
 px.set_mapbox_access_token(token)
 
