@@ -1,6 +1,3 @@
-# Run this app with `python app.py` and
-# visit http://127.0.0.1:8050/ in your web browser.
-
 import dash
 import geopandas as gpd
 import numpy as np
@@ -79,17 +76,27 @@ app.layout = html.Div(children=[
     
 ]
 )
+@app.callback(
+    Output("checkbox-list", "value"),
+    Input("reset-button", "n_clicks")
+)
+def reset_checklist(n_clicks):
+    if n_clicks > 0:
+        
+        fig.data = [fig.data[0]]
+    value = []
+
+    return value
 
 @app.callback(
     Output('san-diego-map', 'figure'),
-    
     Input('checkbox-list', 'value'),
-    # Input("reset-button", "n_clicks")
     
 )
 def update_map(value):
-
-    if 'Libraries' in value:
+    if value is None:
+        fig.data = [fig.data[0]]
+    if 'Libraries' in value :
         fig.add_trace(px.scatter_mapbox(libraries, lat='lat', lon='lng', hover_name='name',  opacity=0.5,color_discrete_sequence=['purple']).data[0])
     if 'Train' in value:
         fig.add_trace(px.line_mapbox(lat=lats, lon=lons, color_discrete_sequence=['black']).data[0])
@@ -102,16 +109,9 @@ def update_map(value):
 
     return fig
 
-# @app.callback(
-#     Output("san-diego-map", "figure"),
-#     Input("reset-button", "n_clicks")
-# )
-# def reset_checklist(n_clicks):
-#     if not n_clicks:
-#         raise dash.exceptions.PreventUpdate
-#     fig = px.scatter_mapbox(homes, lat='lat', lon='lon', hover_data=['Bedrooms'] , hover_name='Apartment', zoom=10   ,)
 
-#     return fig
+
+
 
 
 if __name__ == '__main__':
