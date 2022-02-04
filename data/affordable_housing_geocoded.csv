@@ -1,0 +1,173 @@
+Apartment,Address,Zip,Contact,Bedrooms,Handicap,Units,Preferred Clientel,to_geocode,lat,lon
+16th and Market St,1550 Market St,92101,619.645.3303,"1,2,",No,136.0,,"16th and Market St, 1550 Market St, 92101, San Diego, California",32.7117774,-117.1496862
+Alabama Manor,3836 Alabama St,92104,619.955.8075,"1,2",Yes,67.0,Seniors 55+,"Alabama Manor, 3836 Alabama St, 92104, San Diego, California",32.7480099,-117.1425116
+Alta Vista Apts,3535-3545 43rd St,92105,619.584.1535,2,No,12.0,,"Alta Vista Apts, 3535-3545 43rd St, 92105, San Diego, California",33.1360675,-117.0960298
+Arbor Terrace,3701 Florida St,92104,619.293.3612,"2,3,4",No,69.0,Large Families,"Arbor Terrace, 3701 Florida St, 92104, San Diego, California",32.7454384,-117.1435289
+Arbor Village,4914-4998 Logan Ave,92113,619.263.4878,"1,2,",Yes,112.0,,"Arbor Village, 4914-4998 Logan Ave, 92113, San Diego, California",32.6970794,-117.0876715
+Atmosphere Apts,1453 Fourth Ave,92101,619.450.4499,"0,1,2,3",Yes,205.0,Families; Homeless,"Atmosphere Apts, 1453 Fourth Ave, 92101, San Diego, California",32.720541,-117.160655
+Auburn Park,5135 University Ave,92105,619.255.8767,"0,1,2,3",Yes,69.0,Families,"Auburn Park, 5135 University Ave, 92105, San Diego, California",32.748971,-117.08398
+Bandar Salaam,3810 Winona Ave,92105,619.563.5872,"1,2,3,4,5",Yes,68.0,,"Bandar Salaam, 3810 Winona Ave, 92105, San Diego, California",32.746868,-117.088407
+Barrio Senior Villas,2322 Newton Ave,92113,619.702.6595,"1,2",Yes,11.0,Seniors; Disabled,"Barrio Senior Villas, 2322 Newton Ave, 92113, San Diego, California",32.9914131,-117.153778
+Bella Vista Apts,4742 Solola Ave,92113,619.527.8600,"1,2,",Yes,169.0,,"Bella Vista Apts, 4742 Solola Ave, 92113, San Diego, California",32.6947805,-117.0923895
+Beyer Courtyards,3412 Beyer Blvd,92173,619.662.0857,"2,3",Yes,60.0,Large Families,"Beyer Courtyards, 3412 Beyer Blvd, 92173, San Diego, California",32.5651359,-117.0587768
+Canyon Rim rd,10845 Via Los Narcisos,92129,858.672.2001,"2,3",Yes,357.0,,"Canyon Rim rd, 10845 Via Los Narcisos, 92129, San Diego, California",32.9726525,-117.0954882
+Canyon Vista,3429 43 St,92105,619.521.1263,"1,2,",Yes,8.0,,"Canyon Vista, 3429 43 St, 92105, San Diego, California",32.8838889,-117.2333333
+Casa Colina Del Sol,5207 52nd Pl,92105,619.287.2910,1,Yes,75.0,Seniors 62+; Disabled,"Casa Colina Del Sol, 5207 52nd Pl, 92105, San Diego, California",32.7494648,-117.0826505
+Cathedral Arms,3911 Park Blvd,92103,619.291.3883,"0,1",No,206.0,Seniors 62+,"Cathedral Arms, 3911 Park Blvd, 92103, San Diego, California",32.7488246,-117.1458232
+Cathedral Plaza,1551 Third Ave,92101,858.312.8170,"0,1",Yes,172.0,Seniors 62+,"Cathedral Plaza, 1551 Third Ave, 92101, San Diego, California",32.7214176,-117.1619154
+CCBA Senior Garden,438 Third Ave,92101,619.236.8130,"0,1",Yes,172.0,Seniors 55+,"CCBA Senior Garden, 438 Third Ave, 92101, San Diego, California",32.7100825,-117.1621816
+Cedar Gateway Apts,1612 6 Ave,92113,619.696.9421,"2,3",Yes,65.0,,"Cedar Gateway Apts, 1612 6 Ave, 92113, San Diego, California",32.7222921,-117.1595701
+Cerro Pueblo Apts,2835 Clairemont Dr,92117,619.275.5361,"1,",Yes,45.0,Seniors 62+; Disabled,"Cerro Pueblo Apts, 2835 Clairemont Dr, 92117, San Diego, California",32.79076,-117.1979827
+Chandon Village,14350 Camino De La Luna,92127,In person,"1,2,",Yes,10.0,Large Families,"Chandon Village, 14350 Camino De La Luna, 92127, San Diego, California",32.9494848,-117.2061095
+Cielo Carmel Apts,6050 Camino San Ferm√≠n,92130,858-261-0796,"1,2,3",Yes,197.0,Families,"Cielo Carmel Apts, 6050 Camino San Ferm√≠n, 92130, San Diego, California",32.956231,-117.1928036
+Citi Scene Apts,4105 Georgia St,92103,619.296.4333,"1,2,",Yes,30.0,,"Citi Scene Apts, 4105 Georgia St, 92103, San Diego, California",32.7524882,-117.1447202
+City Heights Square,4065 43 St,92105,619.281.0483,"0,1",Yes,150.0,Seniors 62+,"City Heights Square, 4065 43 St, 92105, San Diego, California",32.7501255,-117.1017608
+Colina Park North Apts,4333 Dawson Ave,92115,619.583.7512,"0,1,2",No,64.0,,"Colina Park North Apts, 4333 Dawson Ave, 92115, San Diego, California",32.755763,-117.0823044
+Columbia Tower,904 State St,92101,619.696.0201,"0,1",Yes,150.0,Seniors 62+,"Columbia Tower, 904 State St, 92101, San Diego, California",32.7148506,-117.1667771
+Cornerstone Apts,3604 Van Dyke,92105,619.521.1263,"2,",Yes,7.0,,"Cornerstone Apts, 3604 Van Dyke, 92105, San Diego, California",32.7442323,-117.1035113
+Coronado Terrace I & II,1183 25th St,92154,619.423.5804,"2,3",Yes,312.0,,"Coronado Terrace I & II, 1183 25th St, 92154, San Diego, California",32.5754013,-117.0780751
+Courtyard Terraces,4321 52nd St,92105,619.265.8536,"1,2",Yes,88.0,Seniors 55+,"Courtyard Terraces, 4321 52nd St, 92105, San Diego, California",32.7554998,-117.0830328
+Crandall Apts,2154 Garston St,92111,858.279.6060,"2,3",Yes,144.0,,"Crandall Apts, 2154 Garston St, 92111, San Diego, California",32.78356,-117.1661157
+Creekside Trails,2129 Coronado Ave,92154,619.869.7023,"1,2,3",Yes,49.0,LargeFamilies,"Creekside Trails, 2129 Coronado Ave, 92154, San Diego, California",32.5760903,-117.0869539
+Creekside Village Apts,220 47 St,92102,619.263.2686,"2,4",Yes,144.0,,"Creekside Village Apts, 220 47 St, 92102, San Diego, California",32.7070716,-117.0944856
+Del Prado Apts,3878 Beyer Blvd,92173,619.428.6003,"1,2,3",Yes,59.0,,"Del Prado Apts, 3878 Beyer Blvd, 92173, San Diego, California",32.5600559,-117.0505037
+Delta Manor,4245 Delta St,92113,619.266.8395,"1,2,3",No,21.0,,"Delta Manor, 4245 Delta St, 92113, San Diego, California",32.6885601,-117.1031269
+Derby Terrace Apts**,14103 Old Camino Real #7,92130,858.847.0221,"2,",Yes,23.0,,"Derby Terrace Apts**, 14103 Old Camino Real #7, 92130, San Diego, California",32.9712995,-117.2317396
+Domain Apts,8796 Spectrum Ctr Blvd,92123,858.292.1111,"1,2",No,35.0,,"Domain Apts, 8796 Spectrum Ctr Blvd, 92123, San Diego, California",32.8277288,-117.1380638
+El Pedregal,104 Averil Rd,92173,619.428.1400,"3,4",No,45.0,LargeFamilies,"El Pedregal, 104 Averil Rd, 92173, San Diego, California",32.5564436,-117.0539857
+Entrada Apts,453 13th St,92101,619.235.4404,"0,1,2",No,40.0,,"Entrada Apts, 453 13th St, 92101, San Diego, California",32.7102132,-117.152567
+Euclid Avenue Apts,4115 Euclid Ave,92105,619.276.6271,"1,2,3",No,12.0,,"Euclid Avenue Apts, 4115 Euclid Ave, 92105, San Diego, California",32.7508219,-117.0924818
+Euclid Court Apts,4217-4231 Euclid Ave,92105,619.584.1535,"0,1,2",Yes,11.0,,"Euclid Court Apts, 4217-4231 Euclid Ave, 92105, San Diego, California",32.730927,-117.0897467
+Fairbanks Commons,15870 Camino San Bernardo,92127,858.649.6176,"1,2,3",Yes,165.0,,"Fairbanks Commons, 15870 Camino San Bernardo, 92127, San Diego, California",33.0145736,-117.1259899
+Fairbanks Ridge Apts,16016 Babcock St,92127,858.720.8312,"1,2,3",Yes,204.0,,"Fairbanks Ridge Apts, 16016 Babcock St, 92127, San Diego, California",33.0203037,-117.1334473
+Fairbanks Square Apts,16050 Potomac Ridge Rd,92127,858.367.8729,"1,2",Yes,98.0,Seniors 55+,"Fairbanks Square Apts, 16050 Potomac Ridge Rd, 92127, San Diego, California",33.0165481,-117.1239166
+Fairbanks Terrace,16325 Paseo Del Sur,92127,760.456.6000,"1,2",No,82.0,Seniors 62+,"Fairbanks Terrace, 16325 Paseo Del Sur, 92127, San Diego, California",33.0188459,-117.1246399
+Gateway Family Housing,1605 Logan Ave,92113,619.238.5223,"2,3",Yes,41.0,,"Gateway Family Housing, 1605 Logan Ave, 92113, San Diego, California",32.7044456,-117.149167
+Golden Age Garden Apts,740 S 36th St,92113,619.231.7833,"1,",Yes,75.0,Seniors 62+,"Golden Age Garden Apts, 740 S 36th St, 92113, San Diego, California",32.6987155,-117.1173649
+Golden Villas,3355 Elm St,92102,619.239.8466,"0,1,2",No,32.0,,"Golden Villas, 3355 Elm St, 92102, San Diego, California",32.7243195,-117.1217874
+Grace Tower,3955 Park Blvd,92103,619.298.5442,"0,1",No,165.0,Seniors 62+,"Grace Tower, 3955 Park Blvd, 92103, San Diego, California",32.74948800000001,-117.14585
+Grant Heights Park,2651-2663 J St,92102,619.239.0251,"1,2",No,27.0,,"Grant Heights Park, 2651-2663 J St, 92102, San Diego, California",32.7091857,-117.1368847
+Green Manor,4041 Ibis St,92103,619.297.1601,"0,1",No,145.0,Seniors 62+,"Green Manor, 4041 Ibis St, 92103, San Diego, California",32.7505405,-117.1729555
+Guadalupe Plaza,4142 42nd St,92105,619.584.2414,"1,",Yes,124.0,Seniors 62+; Disabled,"Guadalupe Plaza, 4142 42nd St, 92105, San Diego, California",32.752606,-117.1046951
+Hacienda Townhomes,350 17th St,92101,In person,"2,3",Yes,52.0,,"Hacienda Townhomes, 350 17th St, 92101, San Diego, California",32.7089404,-117.1487544
+Harbor View,404 47th St,92102,619.263.5858,"2,3",Yes,60.0,,"Harbor View, 404 47th St, 92102, San Diego, California",32.7091023,-117.0938767
+Harmony Home Apts,4251 44th St,92105,619.521.1263,"1,",Yes,12.0,Seniors 65+; Disabled,"Harmony Home Apts, 4251 44th St, 92105, San Diego, California",32.7541552,-117.0994728
+Hawthorn I Apts,3051 Hawthorn St,92104,619.640.1712,"0,1,2",No,14.0,,"Hawthorn I Apts, 3051 Hawthorn St, 92104, San Diego, California",32.7272195,-117.1287043
+Hawthorn II Apts,3036 Hawthorn St #6,92104,619.640.1712,"0,1,2",No,17.0,,"Hawthorn II Apts, 3036 Hawthorn St #6, 92104, San Diego, California",32.7261502,-117.1696949
+Heritage Apts,1471 8th Ave,92101,619.239.0064,"1,2",Yes,38.0,SmallFamilies,"Heritage Apts, 1471 8th Ave, 92101, San Diego, California",32.7202987,-117.1573104
+Hollywood Palms,4372 Home Ave,92105,619.269.3008,"2,3,4",Yes,94.0,,"Hollywood Palms, 4372 Home Ave, 92105, San Diego, California",32.7288391,-117.1011505
+Horton 4 Avenue Apts,808 4 Ave,92101,619.238.4500,"0,1",Yes,51.0,,"Horton 4 Avenue Apts, 808 4 Ave, 92101, San Diego, California",32.7138635,-117.1613652
+Horton House,333 G St,92101,619.239.5171,"0,1",Yes,150.0,Seniors 62+; Disabled,"Horton House, 333 G St, 92101, San Diego, California",32.71229350000001,-117.1615284
+Hotel Churchill,827 C Street,92101,619.239.2073,Studio,No,72.0,Homeless,"Hotel Churchill, 827 C Street, 92101, San Diego, California",32.7166091,-117.1568889
+Imperial Pacific Village,1551 Saturn Blvd,92154,619.429.3111,"2,3",No,248.0,Families,"Imperial Pacific Village, 1551 Saturn Blvd, 92154, San Diego, California",32.5693518,-117.0903868
+Independence Point Apts Ave,327 S Willie James Jones,92113,619.795.3291,"3 ,4",Yes,32.0,Families with developmental disabilities,"Independence Point Apts Ave, 327 S Willie James Jones, 92113, San Diego, California",32.7014312,-117.0877532
+Island Village,1245 Market St,92101,619.236.1440,,Yes,280.0,,"Island Village, 1245 Market St, 92101, San Diego, California",32.7113398,-117.1533246
+Jean C. McKinney Manor,5641 Imperial Ave,92114,619.266.0285,,Yes,49.0,Seniors 55+,"Jean C. McKinney Manor, 5641 Imperial Ave, 92114, San Diego, California",32.7079849,-117.0736312
+Juniper Gardens Apts,4251-59 Juniper St #40,92105,619.263.1933,"2,3",Yes,39.0,Families,"Juniper Gardens Apts, 4251-59 Juniper St #40, 92105, San Diego, California",32.728435,-117.1036619
+Knox Glen Apts,4754 Logan Ave,92113,619.527.7228,"2,3,4",Yes,54.0,Families,"Knox Glen Apts, 4754 Logan Ave, 92113, San Diego, California",32.6972844,-117.0924633
+La Casa Balboa,6106 Beadnell Way,92117,858.560.8325,"1,2",Yes,88.0,Seniors 65+; Disabled,"La Casa Balboa, 6106 Beadnell Way, 92117, San Diego, California",32.8210286,-117.1757465
+La Entrada Apts,1755 Logan Ave,92113,619.338.0700,"2,3,4",Yes,85.0,Families,"La Entrada Apts, 1755 Logan Ave, 92113, San Diego, California",32.7030528,-117.1468509
+La Jolla Marine Apts,7410 Cuvier Street,92037,In person,"3, 4",No,8.0,,"La Jolla Marine Apts, 7410 Cuvier Street, 92037, San Diego, California",32.8378921,-117.2771303
+Lakeshore Villa,6888 Golfcrest Dr,92119,619.463.9611,"1,",Yes,126.0,Seniors 62+; Disabled,"Lakeshore Villa, 6888 Golfcrest Dr, 92119, San Diego, California",32.8024729,-117.0393872
+Lantana Hills,5802 University Ave,92115,619.582.8588,"1,2",Yes,76.0,,"Lantana Hills, 5802 University Ave, 92115, San Diego, California",32.749406,-117.072815
+Las Serenas,4352 Delta St,92113,619.262.3891,"1,2,3",No,108.0,,"Las Serenas, 4352 Delta St, 92113, San Diego, California",32.6891194,-117.1011339
+Leah Residence,798 9th Ave,92101,619.236.1288,"0,1,2",No,23.0,Homeless; Disabled,"Leah Residence, 798 9th Ave, 92101, San Diego, California",32.7134124,-117.1567833
+Lillian Place,1437 J St,92101,619.231.7585,"1,2,3",Yes,74.0,,"Lillian Place, 1437 J St, 92101, San Diego, California",32.7091957,-117.1511675
+Lincoln Park,4910-20 Oceanview Blvd,92113,619.262.4542,"3,4",Yes,15.0,Families,"Lincoln Park, 4910-20 Oceanview Blvd, 92113, San Diego, California",32.700626,-117.0890425
+Lincoln Park,440 S 49th St,92113,619.262.4542,,No,,,"Lincoln Park, 440 S 49th St, 92113, San Diego, California",32.7006851,-117.0895442
+Lions Community Manor,310 Market St,92101,619.235.4433,"1,",Yes,129.0,Seniors 62+; Accessible,"Lions Community Manor, 310 Market St, 92101, San Diego, California",32.7117316,-117.1616108
+Luther Tower Apts,1455 Second Ave,92101,619.234.1272,"0,1",Yes,198.0,Seniors 55+,"Luther Tower Apts, 1455 Second Ave, 92101, San Diego, California",32.7206092,-117.1626327
+Mariner's Cove Apts,4392 W Point Loma Blvd,92107,619.225.1473,"1,2,3",yes,100.0,,"Mariner's Cove Apts, 4392 W Point Loma Blvd, 92107, San Diego, California",32.75313,-117.23361
+Market Square Manor,525 14th St,92101,619.237.8004,,Yes,200.0,Seniors 62+,"Market Square Manor, 525 14th St, 92101, San Diego, California",32.7109793,-117.1515212
+Market Street Square,606 Third Ave,92101,619.696.0949,"0,1,2",No,40.0,Seniors,"Market Street Square, 606 Third Ave, 92101, San Diego, California",32.7120433,-117.1622413
+Maya Apts,10101 Maya Linda Rd,92126,858.271.0191,"1,2,3",No,132.0,,"Maya Apts, 10101 Maya Linda Rd, 92126, San Diego, California",32.9024845,-117.1175826
+Mayberry Townhomes,4422 Mayberry Street,92113,619.756.6282,"1,2,3",No,69.0,Families,"Mayberry Townhomes, 4422 Mayberry Street, 92113, San Diego, California",32.6921048,-117.099176
+Meadowbrook Park Apts I & II ,7844 Paradise Valley Rd,92139,619.479.6565,"2,3",Yes,448.0,,"Meadowbrook Park Apts I & II , 7844 Paradise Valley Rd, 92139, San Diego, California",32.698078,-117.0290654
+Mercado Apts,2001 Newton Ave,92113,619.233.7990,"1,2,3",Yes,144.0,,"Mercado Apts, 2001 Newton Ave, 92113, San Diego, California",32.6976928,-117.1436628
+Mercy Gardens,4077 5 Ave,92103,619.255.8891,"0,1",Yes,22.0,Disabled,"Mercy Gardens, 4077 5 Ave, 92103, San Diego, California",32.7514914,-117.1604207
+Mesa Family Villas,2065 Avenida del Mexico,92154,619.423.3663,"3,",No,41.0,Families,"Mesa Family Villas, 2065 Avenida del Mexico, 92154, San Diego, California",32.582915,-117.0892536
+Mesa Verde Apts,d,92120,619.780.0199,"0,1,2,3",Yes,89.0,Multifamily,"Mesa Verde Apts, d, 92120, San Diego, California",32.8106722,-117.0662456
+Metro Villas,4071 39th Street,92105,619.546.7552,"1,2,3,4",No,120.0,Large Families,"Metro Villas, 4071 39th Street, 92105, San Diego, California",32.7509336,-117.1101715
+Mirada at La Jolla Colon,y      7568 Charmant Dr,92122,858.450.6400,"1,2",Yes,89.0,,"Mirada at La Jolla Colon, y      7568 Charmant Dr, 92122, San Diego, California",32.8653369,-117.2254196
+Mission Apts,1825 Hancock St,92110,619.291.1247,"1,2,3",Yes,84.0,Families,"Mission Apts, 1825 Hancock St, 92110, San Diego, California",32.7425714,-117.1849656
+Mission West Lofts,3975 Old Town Ave,92110,619.296.8802,"2,",Yes,1.0,,"Mission West Lofts, 3975 Old Town Ave, 92110, San Diego, California",32.8463367,-117.2720894
+Mission Terrace Apts,10210 San Diego Mission Rd,92108,619.283.6323,"1,2,3",No,76.0,Families,"Mission Terrace Apts, 10210 San Diego Mission Rd, 92108, San Diego, California",32.7854749,-117.1132027
+North Park Senior Apts,4200 Texas Street,92104,619.282.6647,"0,1,2",Yes,75.0,Seniors 55+,"North Park Senior Apts, 4200 Texas Street, 92104, San Diego, California",32.7542714,-117.1390977
+Olivewood Gardens,2865 55th St,92105,619.262.0949,"1,",Yes,60.0,Seniors 55+,"Olivewood Gardens, 2865 55th St, 92105, San Diego, California",32.7352497,-117.0770064
+Otay Park Apts,1170 30th Street,92154,619.429.7903,"1,2,3",Yes,71.0,,"Otay Park Apts, 1170 30th Street, 92154, San Diego, California",32.5974293,-117.0569741
+Pacific Ridge Apts,5945 Linda Vista Rd,92110,619.866.3311,"2,",Yes,30.0,,"Pacific Ridge Apts, 5945 Linda Vista Rd, 92110, San Diego, California",32.7704863,-117.1854924
+Palm Terrace Apts,2885 Palm Ave,92154,619.575.8373,"2,",No,60.0,Small Families,"Palm Terrace Apts, 2885 Palm Ave, 92154, San Diego, California",32.5832347,-117.0721554
+Park Place Apts,4033 33rd St,92104,619.281.0021,"1,",Yes,32.0,Seniors 62+; Disabled,"Park Place Apts, 4033 33rd St, 92104, San Diego, California",32.751093,-117.122439
+Park Terramar Apts,13481 Silver Ivy Lane,92129,  In person,"1,2,3",No,21.0,,"Park Terramar Apts, 13481 Silver Ivy Lane, 92129, San Diego, California",32.9641488,-117.1478779
+Parker Kier Apts,2172 Front St,92101,619.704.1950,"0,1",No,34.0,,"Parker Kier Apts, 2172 Front St, 92101, San Diego, California",32.7280541,-117.1651229
+Parkhaven I,4114 Caminito De La Plaza,92173,619.690.3565,"1,2,3,4",Yes,452.0,Large Families,"Parkhaven I, 4114 Caminito De La Plaza, 92173, San Diego, California",32.5463013,-117.0419148
+Parkhaven II,4224 Caminito De La Plaza,92173,619.690.3565,,No,,,"Parkhaven II, 4224 Caminito De La Plaza, 92173, San Diego, California",32.5463013,-117.0419148
+Parkhaven III,241 Willow Rd,92173,619.690.3565,,No,,,"Parkhaven III, 241 Willow Rd, 92173, San Diego, California",32.5463013,-117.0419148
+Parkside Court,4035 Park Haven Ct,92113,619.264.5692,"1,2,3",No,40.0,,"Parkside Court, 4035 Park Haven Ct, 92113, San Diego, California",32.7031667,-117.1071483
+Parkside Terrace Apts,505 13 St,92101,619.531.7480,"0,1,2,3",No,77.0,Families,"Parkside Terrace Apts, 505 13 St, 92101, San Diego, California",32.7107467,-117.1526107
+Parkway Manor,3766-3778 35th St,92104,619.584.0432,"1,2",No,20.0,,"Parkway Manor, 3766-3778 35th St, 92104, San Diego, California",32.7474478,-117.1184553
+Posadas De Los Granados,121 W Hall Ave,92173,619.428.1115,,Yes,25.0,Seniors 62+,"Posadas De Los Granados, 121 W Hall Ave, 92173, San Diego, California",32.5547756,-117.0455909
+Potiker Residence,525 14 St,92101,619.237.8004,,Yes,200.0,Seniors,"Potiker Residence, 525 14 St, 92101, San Diego, California",32.7110075,-117.1516426
+President John Adams Manor,5471 Bayview Heights Pl,92105,619.262.0722,"1,2,3",Yes,300.0,Large Families,"President John Adams Manor, 5471 Bayview Heights Pl, 92105, San Diego, California",32.7240433,-117.0782126
+Rancho del Norte,167775 Saintbury Glen,92127,858.832.1385,"1,2,3",No,119.0,Large Families,"Rancho del Norte, 167775 Saintbury Glen, 92127, San Diego, California",33.0208884,-117.1205183
+Rancho del Sol,6711 Torenia Trail,92130,858.792.0328,"1,2,3",Yes,95.0,,"Rancho del Sol, 6711 Torenia Trail, 92130, San Diego, California",32.9679172,-117.1732424
+Redwood Villas,3060 53rd St,92105,619.265.8707,"1,2,3",No,90.0,Seniors 55+,"Redwood Villas, 3060 53rd St, 92105, San Diego, California",32.7370453,-117.0826572
+Regency Centre Apts,4765 Home Ave,92105,619.266.1661,"0,1,2",Yes,100.0,Small Families,"Regency Centre Apts, 4765 Home Ave, 92105, San Diego, California",32.7360399,-117.0917722
+Renaissance at North Park,4330 30th St,92104,619.584.4220,"1,2",No,96.0,,"Renaissance at North Park, 4330 30th St, 92104, San Diego, California",32.755824,-117.1306117
+Riverwalk Apts,1194 Hollister St,92154,619.628.4702,"1,2,3",Yes,49.0,,"Riverwalk Apts, 1194 Hollister St, 92154, San Diego, California",32.5749015,-117.0857009
+Sagewood,16217 Stonebridge Pkwy,92131,858.397.106,"1,2,3",No,106.0,Large Families,"Sagewood, 16217 Stonebridge Pkwy, 92131, San Diego, California",32.9254505,-117.0173531
+San Diego Apts,4085 44th St,92105,619.584.1535,"0,1",Yes,16.0,Seniors 55+; Disabled,"San Diego Apts, 4085 44th St, 92105, San Diego, California",32.7575998,-117.0999324
+San Diego Square,1055 9th Ave,92101,619.239.2073,"1,",Yes,154.0,Seniors 62+; Disabled,"San Diego Square, 1055 9th Ave, 92101, San Diego, California",32.7162009,-117.1561498
+Seabreeze Farms,12759 Seabreeze Farms Dr,92130,858.523.1328,"2,3",Yes,38.0,,"Seabreeze Farms, 12759 Seabreeze Farms Dr, 92130, San Diego, California",32.9505076,-117.2033268
+Seabreeze Gardens,4888 Logan Ave,92113,619.527.0741,"2,3",Yes,266.0,,"Seabreeze Gardens, 4888 Logan Ave, 92113, San Diego, California",32.6971464,-117.0901103
+Shirley Heights Homes,5503-5666 Amanda St,92114,619.564.7668,"4,",No,34.0,,"Shirley Heights Homes, 5503-5666 Amanda St, 92114, San Diego, California",32.7068579,-117.074558
+Silvercrest San Diego,727 E Street,92101,619.699.7272,"1,",Yes,123.0,Seniors 62+,"Silvercrest San Diego, 727 E Street, 92101, San Diego, California",32.7144811,-117.1578627
+Sorrento Tower,2875 Cowley Way #102,92110,619.276.1775,"0,1",Yes,196.0,Seniors 62+,"Sorrento Tower, 2875 Cowley Way #102, 92110, San Diego, California",32.7941955,-117.1911875
+St. Paul's Manor,2635 Second Ave,92103,619.239.6900,"1,",No,147.0,Seniors 62+,"St. Paul's Manor, 2635 Second Ave, 92103, San Diego, California",32.7329707,-117.1627371
+St. Stephen's Retirement Center   ,5625 Imperial Ave,92114,619.264.1997," 0,1",Yes,59.0,Seniors 62+,"St. Stephen's Retirement Center   , 5625 Imperial Ave, 92114, San Diego, California",32.707958,-117.0744335
+Stork Street Apts,550 Stork St,92114,In person only,"2,",No,15.0,,"Stork Street Apts, 550 Stork St, 92114, San Diego, California",32.7110119,-117.0614565
+Stratton Apts,3884 Caminito Aguilar,92111,858.278.5200,"2,3",Yes,26.0,,"Stratton Apts, 3884 Caminito Aguilar, 92111, San Diego, California",32.81651220000001,-117.1773091
+Studio 15,1475 Imperial Avenue,92101,619-546-7840,,No,274.0,,"Studio 15, 1475 Imperial Avenue, 92101, San Diego, California",32.7061508,-117.1509208
+Sycamore Court Apts,4048-4064 48th St,92105,619.584.1535,"1,2",Yes,17.0,,"Sycamore Court Apts, 4048-4064 48th St, 92105, San Diego, California",32.7504883,-117.0915341
+Talmadge Senior Village,5252 El Cajon Blvd,92115, 619-265-1600,"1,2",Yes,91.0,Seniors 55+,"Talmadge Senior Village, 5252 El Cajon Blvd, 92115, San Diego, California",32.7577868,-117.0820285
+Ten Fifty B St. Apts,1050 B Street,92101,619.209.7000,"0,1,2,3",Yes,226.0,Families,"Ten Fifty B St. Apts, 1050 B Street, 92101, San Diego, California",32.7180959,-117.1551817
+Teralta Court Apts,4165-4175 Highland Ave,92105,619.584.1535,"1,2",Yes,13.0,,"Teralta Court Apts, 4165-4175 Highland Ave, 92105, San Diego, California",32.7525702,-117.0983638
+Tesoro Grove,1150 Tesoro Grove Way,92154,619.271.0204,"1,2,3",Yes,106.0,,"Tesoro Grove, 1150 Tesoro Grove Way, 92154, San Diego, California",32.575071,-117.082672
+The Crossings,13505-13545 Zinnia Pl,92130,858.481.1291,"1,2,3",No,108.0,Families,"The Crossings, 13505-13545 Zinnia Pl, 92130, San Diego, California",32.9663457,-117.1848924
+The Village Townhomes,3806 Fairmount Ave,92105,619.285.1225,"2,3,4",Yes,116.0,Large Families,"The Village Townhomes, 3806 Fairmount Ave, 92105, San Diego, California",32.7480735,-117.1015548
+Torrey Del Mar,13875 Carmel Valley Rd,92130,858.780.876,"1,2,3",Yes,112.0,,"Torrey Del Mar, 13875 Carmel Valley Rd, 92130, San Diego, California",32.9701663,-117.1597697
+Torrey Highlands Apts,13370 Torrey Meadows Dr,92129,858.538.6425,"2,3",Yes,75.0,,"Torrey Highlands Apts, 13370 Torrey Meadows Dr, 92129, San Diego, California",32.9635016,-117.1523439
+Torrey Vale Apts,6525 Rancho Del Sol Way,92130,858.356.9751,"2,3",Yes,27.0,,"Torrey Vale Apts, 6525 Rancho Del Sol Way, 92130, San Diego, California",32.9642146,-117.1789993
+Town & Country Village,4066 Messina Dr #B,92113,619.263.0737,"2,3",No,143.0,,"Town & Country Village, 4066 Messina Dr #B, 92113, San Diego, California",32.7039593,-117.1053981
+Townspeople's 34th St,4637 34th St,92102,619.295.8802,"1,2",No,33.0,,"Townspeople's 34th St, 4637 34th St, 92102, San Diego, California",32.7620849,-117.1204147
+Townspeople's 51st St,4242 51st St,92102,619.295.8802,,No,24.0,,"Townspeople's 51st St, 4242 51st St, 92102, San Diego, California",32.753892,-117.0849934
+Townspeople-Wilson Ave Apts,,92103,619.295.8802,"1,2",Yes,8.0,,,33.8376701,-79.7633371
+Trinity Manor,3940 Park Blvd,92103,619.297.1512,"1,",Yes,98.0,Seniors 62+,"Trinity Manor, 3940 Park Blvd, 92103, San Diego, California",32.7493529,-117.14659
+Trojan Apts,5222 Trojan Ave,92115,619.265.0265,"0,1,2",Yes,50.0,Small Families,"Trojan Apts, 5222 Trojan Ave, 92115, San Diego, California",32.7547729,-117.0866689
+Trolley Park Terrace,4985 Market Street,92102,619.501.8338,"1,2,3",Yes,52.0,Families,"Trolley Park Terrace, 4985 Market Street, 92102, San Diego, California",32.7099877,-117.0871755
+University Canyon Apts,2052 Via Las Cumbres,92111,858.492.8391,"1,2,3",Yes,120.0,Small Families,"University Canyon Apts, 2052 Via Las Cumbres, 92111, San Diego, California",33.9841967,-117.3299848
+Versa at Civita Apts,2365 Via Alta,92108,619.299.5000,"0,1,2",Yes,148.0,Seniors 55+,"Versa at Civita Apts, 2365 Via Alta, 92108, San Diego, California",32.7758669,-117.1498474
+Villa Alta,4227 52nd St,92115,619.582.2605,"1,",Yes,69.0,Seniors 62+,"Villa Alta, 4227 52nd St, 92115, San Diego, California",32.7537469,-117.0833483
+Villa Andalucia Apts,6591 Rancho Del Sol Way,92130,858.755.8562,"1,2,3",Yes,31.0,,"Villa Andalucia Apts, 6591 Rancho Del Sol Way, 92130, San Diego, California",32.948071,-117.2295806
+Villa Glen,6984 Torrey Santa Fe Rd,92129,858.569.5787,"1,2,3",No,26.0,,"Villa Glen, 6984 Torrey Santa Fe Rd, 92129, San Diego, California",32.9598609,-117.168338
+Villa Harvey Mandel Apts,72 17th St,92113,619.446.2100,,Yes,90.0,,"Villa Harvey Mandel Apts, 72 17th St, 92113, San Diego, California",32.70611239999999,-117.1487722
+Villa Maria,1528 India St,92101,619.236.9353,"2,3",Yes,15.0,,"Villa Maria, 1528 India St, 92101, San Diego, California",32.7213619,-117.1685142
+Villa Merced Apts,1148 Beyer Way,92154,619.423.8325,"1,",Yes,100.0,,"Villa Merced Apts, 1148 Beyer Way, 92154, San Diego, California",32.5743125,-117.066465
+Villa Nueva,3604 Beyer Blvd,92173,619.428.2291,"2,3,4",Yes,398.0,,"Villa Nueva, 3604 Beyer Blvd, 92173, San Diego, California",32.5633002,-117.0557489
+Village at Morena Vista,5395 Napa St,92110,619.294.3566,"1,2,3",Yes,18.0,Families,"Village at Morena Vista, 5395 Napa St, 92110, San Diego, California",32.7647634,-117.1965759
+Village Green Apts,4150 Bonillo Dr,92115,619.583.7236,"2,3",No,93.0,,"Village Green Apts, 4150 Bonillo Dr, 92115, San Diego, California",32.752826,-117.0603
+Village Place Apts,32 17th St,92101,619.645.3303,"1,",Yes,51.0,Disabled; Homeless,"Village Place Apts, 32 17th St, 92101, San Diego, California",32.7056612,-117.148764
+Village View Apts,3830-3832 43rd St,92105,619.521.1263,"1,2,3",No,30.0,,"Village View Apts, 3830-3832 43rd St, 92105, San Diego, California",32.7483498,-117.1022338
+Vista Grande Apts,5411 Santa Margarita St,92114,619.266.1210,"2,3,4",No,48.0,Families,"Vista Grande Apts, 5411 Santa Margarita St, 92114, San Diego, California",32.7056456,-117.0781004
+Vista La Rosa,2002 Rimbey Ave,92154,619.423.6094,"2,3",Yes,240.0,Families,"Vista La Rosa, 2002 Rimbey Ave, 92154, San Diego, California",32.56914,-117.089515
+Vista Lane Courts,440 South Vista Ln,92173,619.690.0224,"0,1,2",Yes,40.0,Senior 62+; Disabled,"Vista Lane Courts, 440 South Vista Ln, 92173, San Diego, California",32.5607634,-117.0551388
+Vista Serena Apts,3155 L St,92102,619.237.1170,"0,1",Yes,21.0,Seniors,"Vista Serena Apts, 3155 L St, 92102, San Diego, California",32.7072521,-117.1259447
+Vista Terrace Hills,1790 Del Sur Blvd,92173,619.428.1125,"3,4",Yes,262.0,Families,"Vista Terrace Hills, 1790 Del Sur Blvd, 92173, San Diego, California",32.5641891,-117.0562349
+Vista Terraza,7735 Via Solare,92129,858.484.3027,"1,2,3",Yes,123.0,Families,"Vista Terraza, 7735 Via Solare, 92129, San Diego, California",32.961468,-117.1559048
+Vista Verde Apts,351 S. 33rd St,92113,619-702-2940,"2,3",Yes,152.0,Families,"Vista Verde Apts, 351 S. 33rd St, 92113, San Diego, California",32.7026399,-117.1224032
+Wesley Terrace,5343 Monroe Ave,92115,619.582.8100,"0,1",Yes,40.0,Seniors 62+,"Wesley Terrace, 5343 Monroe Ave, 92115, San Diego, California",32.7589659,-117.0810167
+Westminster Manor,1730 Third Ave #100,92101,619.233.7001,"0,1",Yes,158.0,Seniors 62+,"Westminster Manor, 1730 Third Ave #100, 92101, San Diego, California",32.7234684,-117.1621847
+Westview Home Apts,3536 43rd St,92105,619.584.1535  ,"1,2",Yes,6.0,,"Westview Home Apts, 3536 43rd St, 92105, San Diego, California",32.7428966,-117.1024145
+Wightman Place Apts,5052 Wightman St,92105,619.285.5600 ,"2,3,4,5",Yes,44.0,Families,"Wightman Place Apts, 5052 Wightman St, 92105, San Diego, California",32.7472042,-117.0854569
+Windwood Village,12730 Briarcrest Pl,92130,858.350.4696 ,"1,2,3",No,92.0,Families,"Windwood Village, 12730 Briarcrest Pl, 92130, San Diego, California",32.95083750000001,-117.2018337
+Winonan Apts,3845 Winona Ave,92195,619.292.3333,"2,",Yes,14.0,,"Winonan Apts, 3845 Winona Ave, 92195, San Diego, California",32.748334,-117.087685
